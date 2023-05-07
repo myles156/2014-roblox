@@ -7,7 +7,7 @@ import navbar from "https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootst
   <div class="navbar-nav" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="/Chome">Home/span></a>
+        <a class="nav-link" href="/home">Home/span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/games">Games</a>
